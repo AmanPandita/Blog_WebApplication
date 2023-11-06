@@ -6,7 +6,6 @@ iBlogs is a web-based blogging platform built with Django, designed to provide a
 
 - **User Authentication**: Secure sign-up and login functionality.
 - **Rich Text Editing**: Create content with a rich text editor.
-- **Comment System**: Readers can comment on your posts.
 - **Responsive Design**: Mobile-friendly and responsive design.
 - **Admin Panel**: Manage your blog with an admin panel.
 
@@ -26,7 +25,7 @@ python -m pip install django
 
 Clone the repository
 ```
-git clone https://github.com/LearnCodeWithDurgesh/iblogs.git
+git clone git@github.com:AmanPandita/Blog_WebApplication.git
 ```
 
 Change to directory
